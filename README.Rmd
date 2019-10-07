@@ -9,7 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Check it out here: https://github.com/mjfrigaard/Errata-R
+Check it out here: https://github.com/mjfrigaard/rrrig
 
 # Repo contents
 
@@ -17,17 +17,8 @@ This is my random collection of R scripts for common tasks. They fall into the g
 
 
 ```sh
-├── Errata-R.Rproj
 ├── README.Rmd
 ├── README.md
-├── data
-│   ├── Nhanes.csv
-│   ├── README.md
-│   ├── menu\ 2.csv
-│   ├── menu.csv
-│   └── wages.csv
-├── data-wrangling
-│   └── README.md
 ├── functions
 │   ├── README.md
 │   ├── comcat.R
@@ -40,21 +31,19 @@ This is my random collection of R scripts for common tasks. They fall into the g
 │   ├── my-fun.R
 │   ├── normVarNames.R
 │   ├── numvarSum.R
+│   ├── outFile.R
 │   ├── pacman-install.R
 │   ├── pacman-setup.R
 │   ├── sectionLabel.R
 │   └── show-missings.R
+├── packages
+│   └── pacman-install.R
+├── rrrig.Rproj
 └── templates
     ├── 01.1-project-setup.R
-    ├── R-script-headers.R
     ├── README.md
-    ├── images
-    │   └── pressure-1.png
-    ├── martin-rmd-template.Rmd
-    ├── martin-rmd-template.md
+    ├── r-script-headers.R
     └── science-journalism-template.Rmd
-
-5 directories, 31 files
 ```
 
 ## R functions
