@@ -1,0 +1,81 @@
+---
+title: "Science journalism template"
+author: Aleszu Bajak
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Grabby headline in one short sentence
+Subheadline (a.k.a. teaser) that distills your argument down to one or two lines
+
+<Lede>
+The lede is your opening line. A good lede draws the reader in and has them asking what happened next. This first graf must be the catchiest. Health stories overwhelmingly open with a patient suffering from the affliction. Breaking news stories open with the news up-front. Other times, an opening quote that’s particularly compelling is used as the lede.
+</Lede>
+
+<Nutgraph>
+The nutgraph contains the crux of your argument. What the new study has found, what the archaeologist stumbled upon, or what the scientist has done that’s so ground-breaking. 
+</Nutgraph> 
+
+<Context>
+Here’s where you give us all the background we need, like the first graf of a Wikipedia entry. If it’s a medical condition, explain it in concise detail and explain how many people are afflicted country- or worldwide. If it’s a new dinosaur fossil, explain what it does, perhaps how large it is, and what the scientific consensus surrounding it is. If it’s a piece of hardware or an esoteric field like synthetic biology, explain what it is and what it’s used for. If the story is historical in nature, this is where the historical background or precedent is included.
+</Context>
+
+<Lede quote>
+Usually provided by your main character: the study author or main scientific expert who is clarifying the research. This opening quote is an eloquent and concise quote that underscores what you are trying to convey in your story. It is the argument--or a quote that supports your argument--in your source’s own words.
+</Lede quote>
+
+<Reinforce the argument>
+Who did this work? Where do they work? What were they setting out to find? Where and when the study was published and by whom.
+</Reinforce the argument>
+
+<More Context>
+Invariably there’s more context to explain. Perhaps a bit of history.  
+</More Context>
+
+<Quote>
+From scientists involved in the research.
+</Quote>
+
+<Outside Quote>
+Get the opinion of a scientist that was not involved in this research but who works in the same field. 
+</Outside Quote>
+
+<Implications>
+What does it all mean? Where is the field headed?
+</Implications>
+
+<Conclusion>
+Further work. Where this work and these conclusions leave the field.
+</Conclusion>
+
+<Ending Quote>
+Popular ending is a witty or prescient quote.
+</Ending Quote>
+
+
+Sprinkled throughout:
+
+<Attribution>
+A good journalist attributed every fact to its source, whether it’s a quote from the scientist, a claim made by the study, or it was taken from a report or some other source.
+</Attribution>
+
+<Transition Sentences>
+You want to constantly be stringing your grafs together with transition sentences. These keep the pace up, hint at what the reader will learn from the next graf, and help you define what the next graf will accomplish. 
+</Transition Sentences>
+
+<Questions>
+Questions are great to include, either as transition questions, or as rhetorical pauses to contemplate what’s been discovered. Questions can help propel the story and help remind the reader why they’re reading and why they’re interested in finding answers.
+</Questions>
+
+
+<Storytelling>
+Don’t forget to make this fun and to give it an arc. The longer the piece, the more important the storytelling. 
+</Storytelling>
+
+
+More reading
+http://www.theguardian.com/science/the-lay-scientist/2010/sep/24/1
+
